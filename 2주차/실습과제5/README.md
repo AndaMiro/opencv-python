@@ -1,3 +1,4 @@
+```python
 import cv2
 
 def clamp(value, min_value, max_value):
@@ -18,3 +19,4 @@ cv2.imshow('dark', dark)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+```
